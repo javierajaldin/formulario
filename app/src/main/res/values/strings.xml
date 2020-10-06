@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="tv_nombre">Nombre</string>
+    <string name="tv_apellido">Apellido</string>
+    <string name="tv_nrotarjeta">Número de Tarjeta</string>
+    <string name="tv_nombre">Nombre</string>
+    <string name="tv_titulo"> Información de la tarjeta de crédito</string>
+    <string name="tv_mes">Mes</string>
+    <string name="tv_anho">Año</string>
+    <string name="tv_codigo">Código</string>
+    <string name="tv_calle">Calle y número</string>
+    <string name="tv_ciudad">Ciudad</string>
+    <string name="tv_estado">Estado</string>
+    <string name="tv_postal">Código Postal</string>
+    <string name="label_Dirección">Dirección</string>
+    <string name="bt_guardar">Guardar</string>
+
+</resources>
